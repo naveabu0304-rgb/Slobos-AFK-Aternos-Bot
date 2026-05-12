@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "broohowyoudoit.aternos.me:61694",
+    "ip": "broohowyoudoit.aternos.me",
     "port": 61694,
     "version": "",
     "try-creative": false
